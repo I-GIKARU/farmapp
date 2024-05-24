@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556643383945",
+    "project_id": "farm-fe37a",
+    "storage_bucket": "farm-fe37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556643383945:android:3bf3216d5738d0c3262458",
+        "android_client_info": {
+          "package_name": "com.example.farm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2uB1XHXvvGSvDnwEjYepUh8e6eyJd7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
